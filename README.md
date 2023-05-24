@@ -1,7 +1,7 @@
-# mlopsProject
+# MLOps Project
 A sample repository for demonstration of  MLOps in machine learning projects
 
-# Housing Price Prediction Project
+## Housing Price Prediction Project
 
 This project aims to develop a machine learning model to predict housing prices based on various features such as size, bedrooms, bathrooms, garage, and neighborhood.
 
