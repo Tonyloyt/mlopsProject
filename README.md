@@ -8,23 +8,22 @@ This project aims to develop a machine learning model to predict housing prices 
 ## Project Structure
 
 The project is organized as follows:
-data/
+- data/
     - housing_data.csv
-notebooks/
+- notebooks/
     - exploratory_analysis.ipynb
-src/
+- src/
     - preprocessing.py
     - model.py
     - evaluation.py
     - generatedata.py
-reports/
+- reports/
     - project_report.pdf
-models/
+- models/
     - trained_model.pkl
-docs
+- docs
     - README.md
     - stup.md
-
 
 
 - The `data/` directory contains the dataset file `housing_data.csv`.
@@ -48,9 +47,9 @@ To get started with the project, follow these steps:
     ```bash
     pip install -r requirements.txt
 
-3. Explore the dataset using the `exploratory_analysis.ipynb` notebook in the notebooks/ directory.
+3. Explore the dataset using the `exploratory_analysis.ipynb` notebook in the `notebooks/` directory.
 
-4. Preprocess the data by running the `preprocessing.py` module in the src/ directory.
+4. Preprocess the data by running the `preprocessing.py` module in the `src/` directory.
 
 5. Train the machine learning model using the `model.py` module.
 
